@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-forked-lr/static/css/main.a9089c74.chunk.css",
-    "main.js": "/react-forked-lr/static/js/main.41dfcb93.chunk.js",
-    "main.js.map": "/react-forked-lr/static/js/main.41dfcb93.chunk.js.map",
+    "main.js": "/react-forked-lr/static/js/main.6e8e8cde.chunk.js",
+    "main.js.map": "/react-forked-lr/static/js/main.6e8e8cde.chunk.js.map",
     "runtime~main.js": "/react-forked-lr/static/js/runtime~main.b87657f3.js",
     "runtime~main.js.map": "/react-forked-lr/static/js/runtime~main.b87657f3.js.map",
-    "static/js/2.1a240082.chunk.js": "/react-forked-lr/static/js/2.1a240082.chunk.js",
-    "static/js/2.1a240082.chunk.js.map": "/react-forked-lr/static/js/2.1a240082.chunk.js.map",
+    "static/js/2.3ad75f56.chunk.js": "/react-forked-lr/static/js/2.3ad75f56.chunk.js",
+    "static/js/2.3ad75f56.chunk.js.map": "/react-forked-lr/static/js/2.3ad75f56.chunk.js.map",
     "index.html": "/react-forked-lr/index.html",
-    "precache-manifest.d80195c2d3de3f3c6010c5ae77006de8.js": "/react-forked-lr/precache-manifest.d80195c2d3de3f3c6010c5ae77006de8.js",
+    "precache-manifest.a76f7c915d89276206a4a8b3b1dc4a0f.js": "/react-forked-lr/precache-manifest.a76f7c915d89276206a4a8b3b1dc4a0f.js",
     "service-worker.js": "/react-forked-lr/service-worker.js",
     "static/css/main.a9089c74.chunk.css.map": "/react-forked-lr/static/css/main.a9089c74.chunk.css.map"
   }
